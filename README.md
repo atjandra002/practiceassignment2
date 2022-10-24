@@ -7,7 +7,7 @@ W43A
     r_csv.R
   
   /spyder (note: Spyder project)
-    python_csv.R
+    python_csv.py
     car.csv 
     
 ## This is my readme file
