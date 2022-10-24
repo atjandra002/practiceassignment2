@@ -10,5 +10,5 @@ W43A
     python_csv.R
     car.csv 
     
-    ## This i my readme file
-    ### It contains basic information about my project 
+## This is my readme file
+### It contains basic information about my project 
